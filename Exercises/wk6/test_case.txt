@@ -1,0 +1,8 @@
+this is a test run
+folowed by control dd
+expected output should be:
+0( 4):  1 this
+6(7):  1 is 
+..... etc 
+this test case is supposed to test the program. Although it has some bugs I was not able to figure out, i really struggled with this assignment. but it compiles and have ultimatly learned a couple new things. 
+bugs: counter, and indexing the duplicates 

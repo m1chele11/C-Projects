@@ -1,0 +1,21 @@
+This is my text file: 
+Michele Barrantes
+
+
+we have the global variables: 
+A,S,R,J,T,H 
+each has their corresponding sub variabels
+we will also use variables to keep track of each average
+
+do while loop{
+to run unless "Q" is entered
+for loop to validate the input with if statement inside{
+}
+switch(input){
+	there will be multiple cases for each employee type
+		for loop{
+			this will be inside each case to validate the user input and ask until correct input is entered
+		}	
+	}
+}
+print final results after the program is exited with "Q" 

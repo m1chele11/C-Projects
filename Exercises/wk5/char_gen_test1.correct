@@ -1,0 +1,10 @@
+Enter test case number 0-9 (0 or newline means normal run):
+       Race   Attributes         Skills
+Crew          C  I  S  P  A      N    E    L    T    D
+Cap    T      3  3  3  3  3     -4+  -4+  -4+  -4+  -4+
+Com    M      6  6  4  8  5     -1*  -2*  -2*  -2*  -1*
+Eng    V     13 11 13 13 11      0    0    0    0    0 
+Nav    S     15 18 15 17 16      2*   2*   2*   2*   2*
+Sec    T     18 18 18 18 18      4+   4+   4+   4+   4+
+Enter C to reroll the crew or a crew number [0-4] to reroll reroll a crew member. You have 3 of 3 rerolls left:
+Enjoy the game!
